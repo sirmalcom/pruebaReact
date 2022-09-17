@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "��#\u0000 \u0000p\u0000r\u0000u\u0000e\u0000b\u0000a\u0000R\u0000e\u0000a\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000r\u0000u\u0000e\u0000b\u0000a\u0000R\u0000e\u0000a\u0000c\u0000t\u0000\r\u0000 \u0000",
   "main": "index.js",
+  "engines":{
+    "node": "v18.7.0"
+  },
   "scripts": {
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build"
   },
   "repository": {
     "type": "git",
