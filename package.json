@@ -1,0 +1,23 @@
+{
+  "name": "pruebareact",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000u\u0000e\u0000b\u0000a\u0000R\u0000e\u0000a\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000r\u0000u\u0000e\u0000b\u0000a\u0000R\u0000e\u0000a\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirmalcom/pruebaReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirmalcom/pruebaReact/issues"
+  },
+  "homepage": "https://github.com/sirmalcom/pruebaReact#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
